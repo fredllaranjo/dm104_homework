@@ -1,0 +1,47 @@
+/*HTML Element Practice*/
+body {
+    color: white;
+    background-color: #101010;
+    font-family: Helvetica;
+    min-height: 100%;
+}
+table {
+    overflow-x:auto;
+}
+
+tr:nth-child(odd) {
+    background-color: gray;
+}
+table caption {
+    font-size: 3em;
+}
+table th {
+    font-size: 2em;
+}
+footer {
+    display: flex;
+}
+
+/* Specific rule */
+table tbody tr td {
+    text-align: center;
+}
+
+/*Class Practice*/
+.background_table {
+    background-color: darkgray;
+    border: 1em double#FFFFFF ;
+}
+table.centered {
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+/*HTML Element ID Practice*/
+#price_table {
+    background-color: gold;
+    border-color:#000000 ;
+}
+#price_table td {
+    color: black;
+}

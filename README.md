@@ -2,7 +2,7 @@
 1st class  
     HTML Basics     Rodrigo Faria           [X]          -- (2017 May 6)  
 2nd class  
-    CSS Basics      Rodrigo Faria           [ ]          2017 May 13  
+    CSS Basics      Rodrigo Faria           [X]          2017 May 13  
 3rd class  
     JS Basics       Edy Segura              [ ]          2017 May 27  
 4th class  
