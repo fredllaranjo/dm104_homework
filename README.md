@@ -1,6 +1,6 @@
                     TEACHER             HOMEWORK        DATE  
 1st class  
-    HTML Basics     Rodrigo Faria           [ ]          -- (2017 May 6)  
+    HTML Basics     Rodrigo Faria           [X]          -- (2017 May 6)  
 2nd class  
     CSS Basics      Rodrigo Faria           [ ]          2017 May 13  
 3rd class  
